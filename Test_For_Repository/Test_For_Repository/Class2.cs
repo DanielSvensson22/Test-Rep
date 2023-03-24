@@ -8,6 +8,6 @@ namespace Test_For_Repository
 {
     internal class Class2
     {
-        public static void PrintFeatureTwo() { Console.WriteLine("This is the second feature!"); }
+        public static void PrintLineTwo() { Console.WriteLine("This is the second feature!"); }
     }
 }
